@@ -1,0 +1,45 @@
+PS C:\Users\khour\Downloads\CSE 11\PA2\cse11-pa2-starter-main> ./run.bat ExampleTweets
+Tester Library v.3.0
+-----------------------------------Tests defined in the class: ExampleTweets:---------------------------ExampleTweets:---------------
+new ExampleTweets:1(
+ this.Example1 = new User:2(  this.UserName = "StephenCurry30"
+  this.FullName = "Stephen Curry"
+  this.FollowerCount = 15700000)
+ this.Example2 = new User:3(
+  this.UserName = "elonmusk"
+  this.FullName = "Elon Musk"
+  this.FollowerCount = 70600000)
+ this.Example3 = new User:4(
+  this.UserName = "NFL"
+  this.FullName = "NFL"
+  this.FollowerCount = 28200000)
+ this.Sample1 = new Tweet:5(
+  this.TweetText = "Cardinals activate DE J.J. Watt off IR."
+  this.LikeCount = 15500
+  this.UniqueID = "1483183628414853126"
+  this.accountDetails = User:4)
+ this.Sample2 = new Tweet:6(
+  this.TweetText = "Good thing I never tweet anything controversial"
+  this.LikeCount = 233500
+  this.UniqueID = "1482858149900136448"
+  this.accountDetails = User:3)
+ this.Sample3 = new Tweet:7(
+  this.TweetText = "Klay Day"
+  this.LikeCount = 142600
+  this.UniqueID = "1480272699918143489"
+  this.accountDetails = User:4)
+ this.Sample4 = new Tweet:8(
+  this.TweetText = "#TCC great day to be a Wildcat!"
+  this.LikeCount = 6507
+  this.UniqueID = "1473474490646499328"
+  this.accountDetails = User:4)
+ this.length1 = true
+ this.length2 = false
+ this.LikeComparison1 = false
+ this.LikeComparison2 = true
+ this.ExampleText1 = "NFL @NFL: Cardinals activate DE J.J. Watt off IR. : 15500 Likes"
+ this.ExampleText2 = "Elon Musk @elonmusk: Good thing I never tweet anything controversial : 233500 Likes"
+ this.ExmapleToLink1 = "http://twitter.com/NFL/status/1483183628414853126"
+ this.ExampleToLink2 = "http://twitter.com/NFL/status/1473474490646499328")
+---------------
+No test methods found.
